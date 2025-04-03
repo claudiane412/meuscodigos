@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1738874076 source:c:\users\vboxuser\documents\aula1\aula1\desafio\main.c
+	<stdio.h>
+	<stdlib.h>
+
